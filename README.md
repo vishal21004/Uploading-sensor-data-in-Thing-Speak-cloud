@@ -1,3 +1,5 @@
+### REG NO: 212222230177
+### NAME : VISHAL M.A
 # Uploading temperature sensor data in Thing Speak cloud
 
 # AIM:
@@ -73,8 +75,10 @@ Automatically act on your data and communicate using third-party services like T
 # PROGRAM:
 
 # CIRCUIT DIAGRAM:
+![crct drgm](https://github.com/vishal21004/Uploading-sensor-data-in-Thing-Speak-cloud/assets/119560110/95ebcfbb-aa0a-4926-860f-f182378b1266)
 
 # OUTPUT:
+![thngspk](https://github.com/vishal21004/Uploading-sensor-data-in-Thing-Speak-cloud/assets/119560110/8c4db44d-158c-4e00-ae27-107235cb4933)
 
 # RESULT:
 
